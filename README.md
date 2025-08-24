@@ -44,7 +44,7 @@ plagiarism_checker/
 ```
 python -m venv .venv
 source .venv/bin/activate   # On Linux/Mac
-.venv\Scripts\activate      # On Windows
+.venv\Scriptsctivate      # On Windows
 ````
 
 3. **Install dependencies**
@@ -109,6 +109,7 @@ Machine learning is a part of AI that builds systems capable of learning from da
   - `1 = Plagiarized`
 
 ---
+
 
 ##  Future Improvements
 - Add **Random Forest classifier** alongside DNN for comparison.
