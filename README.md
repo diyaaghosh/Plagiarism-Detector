@@ -57,7 +57,8 @@ pip install -r requirements.txt
 import nltk
 nltk.download('punkt')
 ```
-## ▶️ Running the App
+bash
+##  Running the App
 
 Run the Streamlit app:
 
