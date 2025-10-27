@@ -115,4 +115,7 @@ Machine learning is a part of AI that builds systems capable of learning from da
 - Add **Random Forest classifier** alongside DNN for comparison.
 - Use **TF-IDF + cosine similarity** as a baseline.
 - Extend to **code plagiarism detection** (AST + embeddings).
-- Deploy app on **Streamlit Cloud **.
+- Deploy app on **Streamlit Cloud**.
+
+Due to GitHub storage limitations, the dataset and the trained model file (`best_model.pkl`) are hosted on Google Drive.  
+You can access and download them here: [Google Drive Folder Link](https://drive.google.com/drive/u/0/folders/1EwHHT6wBoCx_PPRD6OBUDbplvFeww6A7)
