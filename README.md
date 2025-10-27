@@ -37,7 +37,7 @@ plagiarism_checker/
    ```bash
    git clone https://github.com/your-username/plagiarism_checker.git
    cd plagiarism_checker
-```
+
 
 
 2. **Create virtual environment (recommended)**
